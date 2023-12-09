@@ -13,6 +13,6 @@ h2{
 }
 
 
-p[draggable]{
-    color: purple;
+p[draggable="false"]{
+    color: purple
 }
