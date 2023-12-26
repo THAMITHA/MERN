@@ -6,4 +6,4 @@ $("h1").text("Bye");
 
 $("button").text("don't click me");
 
-$("button").html("<em>Hey</em>")
+$("button").html("<em>Hey</em>");
