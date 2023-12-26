@@ -1,2 +1,2 @@
-console.log($("h1").css("font-size"));
+$("h1").addClass("big-title");
 
